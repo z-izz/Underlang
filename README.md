@@ -4,7 +4,7 @@ A Full Programming Language, With Variables, Points (Functions), And More!
 
 # Features
 
-Variables & Variable Names
-Points aka Functions
-File IO
-If Statements
+1) Variables & Variable Names
+2) Points aka Functions
+3) File IO
+4) If Statements

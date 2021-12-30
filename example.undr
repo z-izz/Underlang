@@ -1,0 +1,10 @@
+var hwrld ^Hello, World!^
+var number ^7167^
+
+;point
+print &hwrld&
+increment ^number^
+print &number&
+;endpoint
+
+launchPoint^0^

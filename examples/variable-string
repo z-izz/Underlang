@@ -1,0 +1,3 @@
+var hwrld ^Hello, World!^
+
+print &hwrld&
